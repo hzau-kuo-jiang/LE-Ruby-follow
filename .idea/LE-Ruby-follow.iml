@@ -11,5 +11,12 @@
     </content>
     <orderEntry type="jdk" jdkName="ruby-2.7.8-p225" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v2.4.14, ruby-2.7.8-p225) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mustermann (v3.0.0, ruby-2.7.8-p225) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rack (v2.2.7, ruby-2.7.8-p225) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rack-protection (v3.0.6, ruby-2.7.8-p225) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ruby2_keywords (v0.0.5, ruby-2.7.8-p225) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sinatra (v3.0.6, ruby-2.7.8-p225) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tilt (v2.2.0, ruby-2.7.8-p225) [gem]" level="application" />
   </component>
 </module>
